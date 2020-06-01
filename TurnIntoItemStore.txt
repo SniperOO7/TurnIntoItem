@@ -1,0 +1,84 @@
+// Exported from SourceMod Translator
+// Language: English (en)
+// 
+"Phrases"
+{
+	"hns_nohider"
+	{
+		"en"		"You are the seeker"
+	}	
+
+	"hns_nomap"
+	{
+		"en"		"On this map this fuction not working!"
+	}
+
+	"hns_nocredits"
+	{
+		"en"		"You don't have enough credits!"
+	}
+
+	"hns_nousage"
+	{
+		"en"		"You don't have any uses left!"
+	}
+
+	"hns_inuse"
+	{
+		"#format"	"{1:i}"
+		"en"		"You still have suit effect, wait {green}{1}{default} sec!"
+	}
+
+	"hns_human"
+	{
+		"en"		"Your suit {green}expired{default}!! You are again human!"
+	}
+
+	"hns_radio"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Radio{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_couch"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Cauch{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_barstool"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Bar-Stool{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_wagon"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Wagon{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_bed"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Bed{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_metalcrate"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Metal Crate{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_bookcase"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}Book Case{default}, you have now {green}{1} {default}credits."
+	}
+
+	"hns_mailbox"
+	{
+		"#format"	"{1:i}"
+		"en"		"You bought {green}MailBox{default}, you have now {green}{1} {default}credits."
+	}
+}
