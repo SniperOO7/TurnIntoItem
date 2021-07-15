@@ -1,0 +1,79 @@
+// Exported from SourceMod Translator
+// Language: English (en)
+// 
+"Phrases"
+{
+	"hns_nohider"
+	{
+		"en"		"You are the seeker"
+	}	
+
+	"hns_nomap"
+	{
+		"en"		"On this map this fuction not working!"
+	}
+
+	"hns_nousage"
+	{
+		"en"		"You don't have any uses left!"
+	}
+
+	"hns_inuse"
+	{
+		"#format"	"{1:i}"
+		"en"		"You still have suit effect, wait {green}{1}{default} sec!"
+	}
+
+	"hns_human"
+	{
+		"en"		"Your suit {green}expired{default}!! You are again human!"
+	}
+
+	"hns_radio"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Radio{default}."
+	}
+
+	"hns_couch"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Cauch{default}."
+	}
+
+	"hns_barstool"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Bar-Stool{default}."
+	}
+
+	"hns_wagon"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Wagon{default}."
+	}
+
+	"hns_bed"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Bed{default}."
+	}
+
+	"hns_metalcrate"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Metal Crate{default}."
+	}
+
+	"hns_bookcase"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}Book Case{default}."
+	}
+
+	"hns_mailbox"
+	{
+		"#format"	"{1:i}"
+		"en"		"You chosen {green}MailBox{default}."
+	}
+}
